@@ -2,12 +2,18 @@
 - ✨ ATUALMENTE TRABALHO COM FRONT-END.
 - 😊 SE APROFUNDANDO EM BANCO DE DADOS.
 - 📨 CONTATO:silvanasiqueiraofc@Gmail.com
+- ☕FUNDADORA DO COMIT_DEV.
 - 🍄 PRONOME: ELA/DELA.
-##
+
+
+
+ ## 
 <div>
   <a href="https://github.com/Sisi-siqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sisi-siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<div align="right" >
+     <img  src="https://user-images.githubusercontent.com/83840938/152589066-441ba480-2be0-466a-9f1a-01cf5951fbda.png" width="200px" />
+  </div>
   
   ##
 <div style="display: inline_block"><br>
