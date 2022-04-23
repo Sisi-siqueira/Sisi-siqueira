@@ -5,7 +5,7 @@
 - ☕FUNDADORA DO COMIT_DEV.
 - 🍄 PRONOME: ELA/DELA.
 
-https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css
+
 
  ## 
 <div>
