@@ -4,8 +4,7 @@
 - 📨 CONTATO:silvanasiqueiraofc@Gmail.com
 - ☕FUNDADORA DO COMIT_DEV.
 - 🍄 PRONOME: ELA/DELA.
-
-
+- https://bagy.bio/silvanan
 
  ## 
 <div>
