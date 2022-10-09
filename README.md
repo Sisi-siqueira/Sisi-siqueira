@@ -1,4 +1,4 @@
-## OLA SOU SOU SILVANA, SEJA BEM VINDOS🌿
+##  My Name Is Silvana And Welcome To My Home 🌿
 - ✨ ATUALMENTE TRABALHO COM FRONT-END.
 - 😊 SE APROFUNDANDO EM JS.
 - 📨 CONTATO:silvanasiqueiraofc@Gmail.com
