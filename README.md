@@ -10,7 +10,7 @@
 <div  >
   <a href="https://github.com/Sisi-siqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sisi-siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img alt="sisi-Js" width="30%"  src="https://user-images.githubusercontent.com/83840938/212743487-6b50f934-0d3b-46d4-9ee3-d87ab5b79d7b.png">
+  <img alt="sisi-Js" width="15%"  src="https://user-images.githubusercontent.com/83840938/212743487-6b50f934-0d3b-46d4-9ee3-d87ab5b79d7b.png">
      
    </div>
 
