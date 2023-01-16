@@ -4,14 +4,16 @@
 - 📨 CONTACT:silvanasiqueiraofc@Gmail.com
 - ☕FUNDADORA DA COMIT_DEV/FOUNDER OF COMIT_DEV
 - 🍄 PRONOUN: ELA/DELA.
-- [https://bagy.bio/silvanan](https://comitdev.onrender.com
+- https://comitdev.onrender.com
 
  ## 
 <div>
   <a href="https://github.com/Sisi-siqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sisi-siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div align="right" >
-     <img  src="https://user-images.githubusercontent.com/83840938/152589066-441ba480-2be0-466a-9f1a-01cf5951fbda.png" width="200px" />
+<div align="center" >
+
+  <img alt="sisi-Js"  src="https://user-images.githubusercontent.com/83840938/212743487-6b50f934-0d3b-46d4-9ee3-d87ab5b79d7b.png">
+     
   </div>
   
   ##
